@@ -14,3 +14,9 @@ Proteus 8.0 professional was used to simulate the circuits and the enclosure was
 • The structure of the proximity sensor is a rectangular box with an LED screen, keypad, ultrasonic sensor, IR sensor, laser, a reset button and power indicate LED seen from outside the enclosure.
 
 • There are two functionalities of the proximity meter. One is to measure the distance to a given object. The other is sensing a given distance. Both sensors will take n consecutive values and those readings with a large deviation to the previous value is omitted. The mean of the accurate readings is taken for processing.
+
+What is included?
+---
+1) PCB files (Proteus 8.0)
+2) Programming code (C language - MPLAB_X)
+3) Report
